@@ -4,12 +4,13 @@ body {
   background-size: cover;
 }
 aside {
-  width: 15%;
+  width: 16%;
   background-color: #eaeaea;
   height: 96vh;
   border-radius: 10px 0px 0px 10px;
   display: inline-block;
   float: left;
+
 }
 
 .pro {
